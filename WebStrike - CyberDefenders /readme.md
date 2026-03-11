@@ -2,7 +2,7 @@
 ### Difficulty - Easy
 
 ## Q1 - Identifying the geographical origin of the attack facilitates the implementation of geo-blocking measures and the analysis of threat intelligence. From which city did the attack originate?
-![Alert Screenshot](../screenshots/1-1.png)
+![Alert Screenshot](Screenshots/1-1.png)
 Here we can see ip address 117.11.88.124 making a HTTP `GET` request to 24.49.63.79. Now after checking IP's geolocation, we found location of Attacker.
 ![Alert Screenshot](screenshots/1-2.png)
 ### Answer : Tianjin
