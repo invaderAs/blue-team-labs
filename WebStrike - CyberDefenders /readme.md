@@ -14,11 +14,11 @@ Here we can see the User-Agent of Attacker.
 
 ## Q3 - We need to determine if any vulnerabilities were exploited. What is the name of the malicious web shell that was successfully uploaded?
 A HTTP `POST` method is used to upload a reverse shell.
-![Alert Screenshot](Screenshots/3.png)
+![Alert Screenshot](Screenshots/4.png)
 
 ## Q4 - Identifying the directory where uploaded files are stored is crucial for locating the vulnerable page and removing any malicious files. Which directory is used by the website to store the uploaded files?
 The php reverse shell is uploaded to this location.
-![Alert Screenshot](Screenshots/4.png)
+![Alert Screenshot](Screenshots/3.png)
 
 ## Q5 - Which port, opened on the attacker's machine, was targeted by the malicious web shell for establishing unauthorized outbound communication?
 ![Alert Screenshot](Screenshots/5.png)
