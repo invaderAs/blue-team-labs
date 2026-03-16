@@ -43,7 +43,7 @@ When I searched   `FILE NAME` (111bc461-1ca8-43c6-97ed-911e0e69fdf8.dll) on goog
 ## Q6 - It is crucial to identify the C2 servers with which the malware communicates to block its communication and prevent further data exfiltration. What is the C2 server that the malware is communicating with?
 
 As we can see in screenshots of `Hybrid Analysis & Virustotal` a domain is found in memory, Which indicate C2 address also I also confirmed this in joeSandbox.
-Answer : https://gogohid.com
+Answer : https://gogohid[.]com
 
 ![Alert Screenshot](Screenshots/6.1.png)
 
