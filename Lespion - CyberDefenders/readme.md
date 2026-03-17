@@ -16,7 +16,7 @@ After opening url in browser we can see a github profile
 Lets do some OSINT now !
 
 ## Q1 - File -> Github.txt: What API key did the insider add to his GitHub repositories?
-We have to find a API key, by going Respositories section we see a repository named `project build -custom login pages` that looked suspicious to me. I opned it and saw 2 javascript files.
+We have to find a API key, by going Repositories section we see a repository named `project build -custom login pages` that looked suspicious to me. I opened it and saw 2 javascript files.
 
 ![Alert Screenshot](Screenshots/1.1.png)
 
