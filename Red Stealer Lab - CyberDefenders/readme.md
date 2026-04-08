@@ -2,17 +2,17 @@
 ### Difficulty - Easy
 
 ## Q1 - Categorizing malware enables a quicker and clearer understanding of its unique behaviors and attack vectors. What category has Microsoft identified for that malware in VirusTotal?
-![Alert Screenshot](Screenshot/1-1.png)
+![Alert Screenshot](Screenshot/1.png)
 
 ## Q2 - Clearly identifying the name of the malware file improves communication among the SOC team. What is the file name associated with this malware?
 ![Alert Screenshot](Screenshot/2.png)
 
 ## Q3 - Knowing the exact timestamp of when the malware was first observed can help prioritize response actions. Newly detected malware may require urgent containment and eradication compared to older, well-documented threats. What is the UTC timestamp of the malware's first submission to VirusTotal?
-![Alert Screenshot](Screenshot/4.1.png)
-![Alert Screenshot](Screenshot/4.png)
+![Alert Screenshot](Screenshot/3.png)
 
 ## Q4 - Understanding the techniques used by malware helps in strategic security planning. What is the MITRE ATT&CK technique ID for the malware's data collection from the system before exfiltration?
-![Alert Screenshot](Screenshot/3.png)
+![Alert Screenshot](Screenshot/4.1.png)
+![Alert Screenshot](Screenshot/4.png)
 
 ## Q5 - Following execution, which social media-related domain names did the malware resolve via DNS queries?
 ![Alert Screenshot](Screenshot/5.png)
